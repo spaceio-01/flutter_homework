@@ -1,7 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/profileApp.dart';
+import 'package:flutter_application_2/productApp.dart'; // Твой импорт файла с экраном
 
-void main() {
-  runApp(ProfileApp());
-}
-
+void main() => runApp(MyApp());
